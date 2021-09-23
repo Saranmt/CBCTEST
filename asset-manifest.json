@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CBCTEST/static/css/main.d31ab8f6.chunk.css",
+    "main.js": "/CBCTEST/static/js/main.b5587d16.chunk.js",
+    "main.js.map": "/CBCTEST/static/js/main.b5587d16.chunk.js.map",
+    "runtime-main.js": "/CBCTEST/static/js/runtime-main.809a7f80.js",
+    "runtime-main.js.map": "/CBCTEST/static/js/runtime-main.809a7f80.js.map",
+    "static/js/2.c31eea7b.chunk.js": "/CBCTEST/static/js/2.c31eea7b.chunk.js",
+    "static/js/2.c31eea7b.chunk.js.map": "/CBCTEST/static/js/2.c31eea7b.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/CBCTEST/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/CBCTEST/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/CBCTEST/index.html",
+    "static/css/main.d31ab8f6.chunk.css.map": "/CBCTEST/static/css/main.d31ab8f6.chunk.css.map",
+    "static/js/2.c31eea7b.chunk.js.LICENSE.txt": "/CBCTEST/static/js/2.c31eea7b.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/CBCTEST/static/media/1.75f03515.png",
+    "static/media/reset.css": "/CBCTEST/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.809a7f80.js",
+    "static/js/2.c31eea7b.chunk.js",
+    "static/css/main.d31ab8f6.chunk.css",
+    "static/js/main.b5587d16.chunk.js"
+  ]
+}
